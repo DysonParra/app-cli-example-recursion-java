@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {Factorial} se encarga de realizar tareas específicas.
+ * @fileoverview    {Factorial}
  *
  * @version         2.0
  *
