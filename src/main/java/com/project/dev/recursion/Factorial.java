@@ -18,7 +18,7 @@ package com.project.dev.recursion;
  * TODO: Definición de {@code Factorial}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class Factorial {
 
