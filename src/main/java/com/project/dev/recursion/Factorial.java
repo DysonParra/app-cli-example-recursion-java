@@ -15,7 +15,7 @@
 package com.project.dev.recursion;
 
 /**
- * TODO: Definición de {@code Factorial}.
+ * TODO: Description of {@code Factorial}.
  *
  * @author Dyson Parra
  * @since 11

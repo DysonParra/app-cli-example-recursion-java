@@ -15,7 +15,7 @@
 package com.project.dev.recursion;
 
 /**
- * TODO: Definición de {@code Fibonacci}.
+ * TODO: Description of {@code Fibonacci}.
  *
  * @author Dyson Parra
  * @since 11
